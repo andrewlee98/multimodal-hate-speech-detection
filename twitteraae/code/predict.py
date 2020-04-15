@@ -2,8 +2,8 @@ from __future__ import division
 import numpy as np
 import sys,os
 
-vocabfile = "../model/model_vocab.txt"
-modelfile = "../model/model_count_table.txt"
+vocabfile = "twitteraae/model/model_vocab.txt"
+modelfile = "twitteraae/model/model_count_table.txt"
 
 K=0; wordprobs=None; w2num=None
 
